@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f3209e626f16e3a5",
+        "id": "11510b22e50652b5",
         "type": "tabs",
         "children": [
           {
-            "id": "cbd1a3ce52844354",
+            "id": "78211724de1ba809",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Testing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Testing"
             }
           }
         ]
@@ -161,12 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Testing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Testing"
             }
           },
           {
@@ -190,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "aa2392e102d53ce2",
@@ -226,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbd1a3ce52844354",
+  "active": "78211724de1ba809",
   "lastOpenFiles": [
     "Testing.md",
     "202 AI - Machine Learning/Minimizing the Cost Function.md",
