@@ -168,9 +168,19 @@
               "icon": "lucide-list",
               "title": "Outline of Minimizing the Cost Function"
             }
+          },
+          {
+            "id": "b888e1ff68fe2e70",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "aa2392e102d53ce2",
@@ -201,7 +211,8 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6b4dbd84f8b99376",
