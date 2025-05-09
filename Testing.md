@@ -1,8 +1,2 @@
 
-testing 
-
-testing
-
-dot dot dot
-
-bruh
+I just really wanna figure out wtf is happening

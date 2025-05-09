@@ -1,6 +1,4 @@
 .obsidian/*
-<<<<<<< HEAD
 .trash/*
-=======
-.trash/*
->>>>>>> origin/master
+
+.obsidian/workspace.json
