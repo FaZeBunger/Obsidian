@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e18776c55201cfb2",
+        "id": "b46e70fafb9c55ba",
         "type": "tabs",
         "children": [
           {
-            "id": "6e1ce930f213af01",
+            "id": "235e239e4daf2305",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Testing"
             }
           }
         ]
@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "aa2392e102d53ce2",
@@ -225,7 +225,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e1ce930f213af01",
+  "active": "235e239e4daf2305",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Testing.md",
