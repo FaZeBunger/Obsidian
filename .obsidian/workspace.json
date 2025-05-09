@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa8124d3ebb65016",
+        "id": "f3209e626f16e3a5",
         "type": "tabs",
         "children": [
           {
-            "id": "5b2128cac3500d23",
+            "id": "cbd1a3ce52844354",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -226,7 +226,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b2128cac3500d23",
+  "active": "cbd1a3ce52844354",
   "lastOpenFiles": [
     "Testing.md",
     "202 AI - Machine Learning/Minimizing the Cost Function.md",
