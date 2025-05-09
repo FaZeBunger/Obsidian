@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6f13b6177b22e293",
+        "id": "e18776c55201cfb2",
         "type": "tabs",
         "children": [
           {
-            "id": "6b4dbd84f8b99376",
+            "id": "6e1ce930f213af01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202 AI - Machine Learning/Minimizing the Cost Function.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minimizing the Cost Function"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -178,9 +178,19 @@
               "icon": "history",
               "title": "History"
             }
+          },
+          {
+            "id": "8b79c06c89fbee52",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "aa2392e102d53ce2",
@@ -215,10 +225,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b4dbd84f8b99376",
+  "active": "6e1ce930f213af01",
   "lastOpenFiles": [
-    "202 AI - Machine Learning/The Cost Over Many Examples.md",
+    "conflict-files-obsidian-git.md",
+    "Testing.md",
     "202 AI - Machine Learning/Minimizing the Cost Function.md",
+    "202 AI - Machine Learning/The Cost Over Many Examples.md",
     "202 AI - Machine Learning/Mean Squared Algorithm.md",
     "202 AI - Machine Learning/Neural Network.md",
     "202 AI - Machine Learning/Neuron.md",
@@ -258,7 +270,6 @@
     "300 Todo/Tasks.md",
     "201 Programming",
     "999 Templates/Project Template.md",
-    "Bruh.md",
     "200 Projects/Nod",
     "999 Templates",
     "300 Todo",
