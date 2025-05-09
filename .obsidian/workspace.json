@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202 AI - Machine Learning/Minimizing the Cost Function.md",
+                "file": "Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minimizing the Cost Function"
+              "title": "Testing"
             }
           }
         ]
@@ -105,6 +105,7 @@
       {
         "id": "2df44c6698b346bc",
         "type": "tabs",
+        "dimension": 63.729128014842296,
         "children": [
           {
             "id": "0b40360825982993",
@@ -178,13 +179,24 @@
               "icon": "history",
               "title": "History"
             }
+          },
+          {
+            "id": "ad04a8cbae8c0ef4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "aa2392e102d53ce2",
         "type": "tabs",
+        "dimension": 36.2708719851577,
         "children": [
           {
             "id": "b3685c59afd63eed",
@@ -217,8 +229,9 @@
   },
   "active": "6b4dbd84f8b99376",
   "lastOpenFiles": [
-    "202 AI - Machine Learning/The Cost Over Many Examples.md",
+    "Testing.md",
     "202 AI - Machine Learning/Minimizing the Cost Function.md",
+    "202 AI - Machine Learning/The Cost Over Many Examples.md",
     "202 AI - Machine Learning/Mean Squared Algorithm.md",
     "202 AI - Machine Learning/Neural Network.md",
     "202 AI - Machine Learning/Neuron.md",
