@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiPenNibFill",
+      "LiCircuitBoard",
+      "RiMiniProgramLine",
+      "LiLayoutTemplate",
+      "LiImages"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "200 Projects": "SiOpenproject",
+  "100 Notes": "LiNotebookPen",
+  "001 Fleeting": "LiFeather",
+  "000 Daily Notes": "LiCalendar",
+  "300 Todo": "LiListTodo",
+  "998 Images": "LiImages",
+  "999 Templates": "LiLayoutTemplate",
+  "201 Programming": "RiMiniProgramLine",
+  "202 AI - Machine Learning": "LiCircuitBoard",
+  "Ink": "RiPenNibFill"
+}

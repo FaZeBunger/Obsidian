@@ -1,0 +1,93 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "-4KAefofamStRVvz98Wud",
+      "name": "Red",
+      "value": "#ff0000"
+    },
+    {
+      "id": "DuU9EJ1HXNa66hCi6kIjt",
+      "name": "Blue",
+      "value": "#002aff"
+    },
+    {
+      "id": "F64ri8CREPgjldDaku7au",
+      "name": "Green",
+      "value": "#1a9900"
+    },
+    {
+      "id": "YabFkWBolWnyzTlXU1m6j",
+      "name": "Yellow",
+      "value": "#ffd500"
+    },
+    {
+      "id": "hmImG7LrqehJqM945y7Fj",
+      "name": "Pink",
+      "value": "#e100ff"
+    },
+    {
+      "id": "KVTHLLSiST1XePkqdK7wg",
+      "name": "Magenta",
+      "value": "#750060"
+    },
+    {
+      "id": "uSgM2-9NV6rHKSd8L3NYH",
+      "name": "Cyan",
+      "value": "#00d1c3"
+    },
+    {
+      "id": "jZBbqemfvdxVn3eTSRb3U",
+      "name": "Orange",
+      "value": "#ff4d00"
+    },
+    {
+      "id": "aZnS3lGfTOFBlv_Ofn1i6",
+      "name": "Black",
+      "value": "#000000"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "000 Daily Notes",
+      "color": "-4KAefofamStRVvz98Wud"
+    },
+    {
+      "path": "001 Fleeting",
+      "color": "DuU9EJ1HXNa66hCi6kIjt"
+    },
+    {
+      "path": "100 Notes",
+      "color": "uSgM2-9NV6rHKSd8L3NYH"
+    },
+    {
+      "path": "200 Projects",
+      "color": "F64ri8CREPgjldDaku7au"
+    },
+    {
+      "path": "999 Templates",
+      "color": "YabFkWBolWnyzTlXU1m6j"
+    },
+    {
+      "path": "300 Todo",
+      "color": "hmImG7LrqehJqM945y7Fj"
+    },
+    {
+      "path": "998 Images",
+      "color": "KVTHLLSiST1XePkqdK7wg"
+    },
+    {
+      "path": "201 Programming",
+      "color": "jZBbqemfvdxVn3eTSRb3U"
+    },
+    {
+      "path": "Ink",
+      "color": "aZnS3lGfTOFBlv_Ofn1i6"
+    },
+    {
+      "path": "202 AI - Machine Learning",
+      "color": "aZnS3lGfTOFBlv_Ofn1i6"
+    }
+  ]
+}

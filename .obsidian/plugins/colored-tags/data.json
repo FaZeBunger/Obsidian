@@ -1,0 +1,31 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "Programming": 1,
+    "Programming_Language": 2,
+    "Projects": 3,
+    "Programming/Language": 1,
+    "Project": 4,
+    "Project/Nod": 1,
+    "main": 5,
+    "main/dashboard": 1,
+    "Nod": 6,
+    "Project/Lexer": 2,
+    "Programming/Lexer": 2,
+    "Programming/Algorithms": 3,
+    "Math": 7,
+    "ai": 8,
+    "AI": 9,
+    "MachineLearning": 10
+  },
+  "_version": 3
+}
