@@ -1,0 +1,16 @@
+- [ ] Add Obsidian
+- [ ] Add music support to waybar
+- [ ] Add bluetooth to waybar
+- [ ] Fix overlapping in waybar
+- [ ] Fix brightness slider in waybar
+- [ ] Add CPU and RAM usage to waybar
+- [ ] Make rofi look nice
+- [ ] Add lock screen
+- [ ] Add screen timeout 
+- [ ] Add notification support
+- [ ] Add yazi terminal file manager
+- [ ] Add custom cursor support
+- [ ] Change hyprland keybinds
+- [ ] Find a few other wallpapers
+- [ ] Make persona 3, 4, & 5 themes
+- [ ] Add stylix for consistent system color themes
