@@ -1,0 +1,2 @@
+- $-(A \wedge B)=(-A \vee -B)$
+- $-(A \vee B)=(-A \wedge -B)$

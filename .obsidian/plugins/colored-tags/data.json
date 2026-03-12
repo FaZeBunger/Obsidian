@@ -10,22 +10,22 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "Programming": 1,
-    "Programming_Language": 2,
-    "Projects": 3,
-    "Programming/Language": 1,
-    "Project": 4,
-    "Project/Nod": 1,
+    "ai": 9,
+    "excalidraw": 11,
+    "machinelearning": 10,
     "main": 5,
+    "math": 7,
+    "programming": 1,
+    "project": 4,
+    "psychology": 12,
     "main/dashboard": 1,
-    "Nod": 6,
-    "Project/Lexer": 2,
-    "Programming/Lexer": 2,
-    "Programming/Algorithms": 3,
-    "Math": 7,
-    "ai": 8,
-    "AI": 9,
-    "MachineLearning": 10
+    "programming/algorithms": 3,
+    "programming/language": 1,
+    "programming/lexer": 2,
+    "project/nod": 1,
+    "psychology/unit1": 1,
+    "psychology/unit2": 2
   },
-  "_version": 3
+  "tagColors": {},
+  "_version": 4
 }

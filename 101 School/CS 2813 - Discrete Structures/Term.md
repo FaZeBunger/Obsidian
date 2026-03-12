@@ -1,0 +1,1 @@
+**Term**: A term describes one specific situation where **multiple conditions must all be true** (It is a literal, or an **AND** of literals)

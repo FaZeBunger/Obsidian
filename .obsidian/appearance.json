@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Material Gruvbox"
+  "cssTheme": "Minimal",
+  "showRibbon": false,
+  "theme": "obsidian",
+  "accentColor": "#fe540b"
 }

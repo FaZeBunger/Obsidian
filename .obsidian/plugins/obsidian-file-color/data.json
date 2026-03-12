@@ -70,7 +70,7 @@
       "color": "YabFkWBolWnyzTlXU1m6j"
     },
     {
-      "path": "300 Todo",
+      "path": "002 Todo",
       "color": "hmImG7LrqehJqM945y7Fj"
     },
     {
@@ -88,6 +88,10 @@
     {
       "path": "202 AI - Machine Learning",
       "color": "aZnS3lGfTOFBlv_Ofn1i6"
+    },
+    {
+      "path": "000 Temporary",
+      "color": "YabFkWBolWnyzTlXU1m6j"
     }
   ]
 }

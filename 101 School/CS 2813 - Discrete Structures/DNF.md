@@ -1,0 +1,1 @@
+**DNF (Disjunctive Normal Form):** A proposition is in **DNF** if it is a term, or an OR of multiple terms.  (**DNF** = **OR** of **ANDs**)

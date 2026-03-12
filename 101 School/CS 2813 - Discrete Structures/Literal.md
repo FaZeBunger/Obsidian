@@ -1,0 +1,1 @@
+**Literal**: A Literal is the smallest logic unit. (A propositional variable, or it's negation)

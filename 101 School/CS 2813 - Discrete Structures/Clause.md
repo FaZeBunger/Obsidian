@@ -1,0 +1,1 @@
+**Clause**: A clause describes one specific situation where **at least one condition must be true**. (It is a literal, or an **OR** of literals.)

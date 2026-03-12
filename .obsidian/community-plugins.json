@@ -13,5 +13,12 @@
   "tag-wrangler",
   "obsidian-tasks-plugin",
   "obsidian-autocomplete-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-minimal-settings",
+  "obsidian-kanban",
+  "templater-obsidian",
+  "obsidian-outliner",
+  "note-refactor-obsidian",
+  "obsidian-linter",
+  "image-converter"
 ]

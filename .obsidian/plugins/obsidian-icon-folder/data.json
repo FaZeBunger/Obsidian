@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiStar",
+      "LiHome",
       "RiPenNibFill",
       "LiCircuitBoard",
-      "RiMiniProgramLine",
-      "LiLayoutTemplate",
-      "LiImages"
+      "RiMiniProgramLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,10 +38,12 @@
   "100 Notes": "LiNotebookPen",
   "001 Fleeting": "LiFeather",
   "000 Daily Notes": "LiCalendar",
-  "300 Todo": "LiListTodo",
   "998 Images": "LiImages",
   "999 Templates": "LiLayoutTemplate",
   "201 Programming": "RiMiniProgramLine",
   "202 AI - Machine Learning": "LiCircuitBoard",
-  "Ink": "RiPenNibFill"
+  "Ink": "RiPenNibFill",
+  "002 Todo": "LiListTodo",
+  "001 Dashboard": "LiHome",
+  "101 School/ECE 2214 - Digital Design/In-Out Diagrams.md": "LiStar"
 }

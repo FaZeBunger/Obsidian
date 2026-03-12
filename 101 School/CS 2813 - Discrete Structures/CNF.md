@@ -1,0 +1,1 @@
+**CNF (Conjunctive Normal Form)**: A proposition is in **CNF** if it is a clause, or an **AND** of multiple clauses. (**CNF** = **AND** of **ORs**)
