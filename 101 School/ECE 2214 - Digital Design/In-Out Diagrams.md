@@ -1,9 +1,7 @@
 
 # NA555 - 555 Timer
-
-![[image 1.png|400]]
-
-![[image-1.png]]
+![[image 2.png]]
+![[image-1 1.png]]
 # SN74HC04 - Hex Not
 ![[image-2.png|400]]
 ![[image-3.png]]
