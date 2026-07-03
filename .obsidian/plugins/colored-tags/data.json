@@ -1,0 +1,32 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "ai": 9,
+    "excalidraw": 11,
+    "machinelearning": 10,
+    "main": 5,
+    "math": 7,
+    "programming": 1,
+    "project": 4,
+    "psychology": 12,
+    "main/dashboard": 1,
+    "programming/algorithms": 3,
+    "programming/language": 1,
+    "programming/lexer": 2,
+    "project/nod": 1,
+    "psychology/unit1": 1,
+    "psychology/unit2": 2,
+    "psychology/unit3": 3
+  },
+  "tagColors": {},
+  "_version": 4
+}

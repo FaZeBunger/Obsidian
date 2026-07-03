@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiStar",
+      "LiHome",
+      "RiPenNibFill",
+      "LiCircuitBoard",
+      "RiMiniProgramLine"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "200 Projects": "SiOpenproject",
+  "100 Notes": "LiNotebookPen",
+  "001 Fleeting": "LiFeather",
+  "000 Daily Notes": "LiCalendar",
+  "998 Images": "LiImages",
+  "999 Templates": "LiLayoutTemplate",
+  "201 Programming": "RiMiniProgramLine",
+  "202 AI - Machine Learning": "LiCircuitBoard",
+  "Ink": "RiPenNibFill",
+  "002 Todo": "LiListTodo",
+  "001 Dashboard": "LiHome",
+  "101 School/ECE 2214 - Digital Design/In-Out Diagrams.md": "LiStar"
+}
