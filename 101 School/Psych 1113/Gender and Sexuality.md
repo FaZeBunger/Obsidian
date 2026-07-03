@@ -77,4 +77,4 @@
 
 # Kohlberg's Cognitive-Developmental Theory
 
-![[image.png]]
+![[image 5.png]]

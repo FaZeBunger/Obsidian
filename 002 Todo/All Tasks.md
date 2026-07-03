@@ -4,8 +4,3 @@ aliases:
 tags:
   - main/dashboard
 ---
-```tasks
-not done
-```
----
-
